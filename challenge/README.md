@@ -19,3 +19,5 @@
 ## Multi Layer Perceptron for Classification Challenge
 
 - See [Multi_Layer_Perceptron_for_Classification_Challenge.ipynb](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/python/Multi_Layer_Perceptron_for_Classification_Challenge.ipynb)
+- by Keonvin Park
+
