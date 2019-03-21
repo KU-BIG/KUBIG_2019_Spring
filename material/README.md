@@ -4,14 +4,21 @@
 
 
 
-## 머신러닝개론(21 Mar)
+## Introduction to Machine Learning(21 Mar)
 
-- Docs
-- 1_Machine_Learning.pdf by Hongseok Choi
-- 2_Preprocessing.pdf by JeongJin Park
-- 3_Modeling.pdf by Heejeong Jeong
-- 4_Cross_Validation.pdf by Keonvin Park
-- 5_Evaluation.pdf by Hyeonwoo Yoo
+- 1_Machine_Learning.pdf
+- 2_Preprocessing.pdf 
+- 3_Modeling.pdf 
+- 4_Cross_Validation.pdf
+- 5_Evaluation.pdf
+
+## Regression & Decision Tree(28 Mar)
+
+- 6_Regression 1.pdf
+- 7_penalized regression.pdf
+- 8_Decision Tree.pdf
+- 9_Boosting.pdf
+- 10_Bagging&RandomForest.pdf
 
 
 ## 깃허브 업로드 가이드
