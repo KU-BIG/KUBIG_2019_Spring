@@ -7,6 +7,8 @@
 ## 머신러닝개론
 
 - Docs
+- 1_Machine_Learning.pdf by [Hongseok Choi](https://github.com/choihongseok)
+- 2_Preprocessing.pdf by [JeongJin Park](https://github.com/Eli-Park)
 - 3_Modeling.pdf by [Heejeong Jeong](https://github.com/AnnaJeong)
 - 4_Cross_Validation.pdf by [Keonvin Park](https://github.com/kbpark16)
 - 5_Evaluation.pdf by [Hyeonwoo Yoo](https://github.com/hyeon95y)
