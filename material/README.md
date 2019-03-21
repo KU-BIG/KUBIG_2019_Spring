@@ -23,7 +23,7 @@
 
 ## 깃허브 업로드 가이드
 - github_guide.pdf
-- by [Hyeonwoo Yoo](https://github.com/hyeon95y)
+- by Hyeonwoo Yoo
 
 
 ## 기타 참고자료
