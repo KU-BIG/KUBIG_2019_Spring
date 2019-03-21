@@ -17,9 +17,9 @@
 - See [Decision_tree_and_ensemble_challenge.ipynb](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/python/Decision_tree_and_ensemble_challenge.ipynb)
 - by Heejeong Jeong
 
-## Multi Layer Perceptron for Classification Challenge
+## Classification Challenge
 
-- See [Multi_Layer_Perceptron_for_Classification_Challenge.ipynb](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/python/Multi_Layer_Perceptron_for_Classification_Challenge.ipynb)
+- See [DeepLearning_challenge.ipynb](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/python/DeepLearning_challenge.ipynb)
 - by Keonvin Park
 
 # R
@@ -34,5 +34,9 @@
 - See [Regression_challenge.R](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/r/Regression_challenge.R)
 - by Jeongjin Park
 
+## Clustering, Classification Challenge
+
+- See [Clustering_Deep_Learning_challenge.pdf](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/r/Clustering_Deep_Learning_challenge.pdf)
+- by Hongseuk Choi
 
 
