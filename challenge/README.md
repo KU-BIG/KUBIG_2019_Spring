@@ -3,5 +3,5 @@
 
 ## Regression Challenge
 
-- See Regression Challenge.ipynb
-- by [Hyeonwoo Yoo](https://github.com/hyeon95y)
+- See [Regression Challenge.ipynb](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/Regression_challenge.ipynb)
+- by Hyeonwoo Yoo
