@@ -28,6 +28,9 @@
 팀프로젝트
 
 ## Contact
-github admin : Hyeonwoo Yoo (hyeon95y@gmail.com)
+github admin : Hyeonwoo Yoo (hyeon95y@gmail.com)  
+
+All contents by  
+[Heejeong Jeong](https://github.com/AnnaJeong), [Hongseok Choi](https://github.com/choihongseok), [Hyeonwoo Yoo](https://github.com/hyeon95y), [JeongJin Park](https://github.com/Eli-Park), [Keonvin Park](https://github.com/kbpark16)  
 
 
