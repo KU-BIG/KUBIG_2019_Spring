@@ -4,7 +4,7 @@
 
 
 
-## Introduction to Machine Learning(21 Mar)
+## Introduction to Machine Learning (21 Mar)
 
 - 1_Machine_Learning.pdf
 - 2_Preprocessing.pdf 
@@ -12,7 +12,7 @@
 - 4_Cross_Validation.pdf
 - 5_Evaluation.pdf
 
-## Regression & Decision Tree(28 Mar)
+## Regression & Decision Tree (28 Mar)
 
 - 6_Regression 1.pdf
 - 7_penalized regression.pdf
