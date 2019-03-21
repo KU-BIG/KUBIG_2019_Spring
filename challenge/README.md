@@ -23,14 +23,15 @@
 
 # R
 
-## Decision Tree Ensembles Challenge
-
-- See [Decision_Tree_Ensembles_challenge.R](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/r/Decision_Tree_Ensembles_challenge.R)
-- by Jeongjin Park
 
 ## Regression Challenge
 
 - See [Regression_challenge.R](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/r/Regression_challenge.R)
+- by Jeongjin Park
+
+## Decision Tree Ensemble Challenge
+
+- See [Decision_Tree_Ensembles_challenge.R](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/r/Decision_Tree_Ensembles_challenge.R)
 - by Jeongjin Park
 
 ## Clustering, Classification Challenge
