@@ -7,20 +7,19 @@
 - See [Regression Challenge.ipynb](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/python/Regression_challenge.ipynb)
 - by Hyeonwoo Yoo
 
-## Clustering Challenge
-
-- See [Clustering Challenge.ipynb](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/python/Clustering_challenge.ipynb)
-- by Keonvin Park
-
 ## Decision Tree and Ensemble Challenge
 
 - See [Decision_tree_and_ensemble_challenge.ipynb](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/python/Decision_tree_and_ensemble_challenge.ipynb)
 - by Heejeong Jeong
 
-## Classification Challenge
+## Clustering, Classification Challenge
 
+- See [Instruction](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/python/Clustering_Classification_challenge_instruction.pdf)
+- See [Clustering Challenge.ipynb](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/python/Clustering_challenge.ipynb)
 - See [DeepLearning_challenge.ipynb](https://github.com/KU-BIG/KUBIG_2019_Spring/blob/master/challenge/python/DeepLearning_challenge.ipynb)
 - by Keonvin Park
+
+
 
 # R
 
