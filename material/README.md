@@ -20,6 +20,12 @@
 - 9_Boosting.pdf
 - 10_Bagging&RandomForest.pdf
 
+## Neural Net & Clustering (4 Apr)
+- 11_NN Intro.pdf
+- 12_NN App.pdf
+- 13_Distance:K-means.pdf
+- 14_Hierarchcal Clustering.pdf
+
 
 ## 깃허브 업로드 가이드
 - github_guide.pdf
