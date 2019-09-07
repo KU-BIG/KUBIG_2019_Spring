@@ -8,7 +8,7 @@
 - Brazilian E-Commerce Public Dataset by Olist : Clustering
 - 경제경영 조 : 최문규, 박인성, 최은혁, 황예진, 김효익, 박소현
 
-## Image Segmentation 1
+## Hair Segmentation & Dyeing
 - Image Segmentation.pdf
 - CNN, FCN 활용
 - 이미지 1조 : 박지윤, 윤빈나, 이동빈, 조송현
@@ -28,7 +28,7 @@
 - VAE(Variational AutoEncoder) 활용
 - Outlier Detection 조 : 유현우, 박정진, 정희정, 송예은, 심정은, 양수형
 
-## Image Segmentation 2
+## PCB Defect Detection
 - PCB Defect Detection.pdf
 - Faster R-CNN 활용
 - 이미지 2조 : 이민수, 정의석, 김혜연, 유승환, 강유정, 김혜빈
